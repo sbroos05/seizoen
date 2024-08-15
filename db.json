@@ -4,21 +4,25 @@
             "id": 1,
             "name": "Appel",
             "seizoen": "herfst"
+            "image": "assets/apples.jpg"
         },
         {
             "id": 2,
             "name": "Pastinaak",
             "seizoen": "winter"
+            "image": "assets/pastinaak.jpg"
         },
         {
             "id": 3,
             "name": "Wortel",
             "seizoen": "lente"
+            "image": "assets/carrots.jpg"
         },
         {
             "id": 4,
             "name": "Aardbei",
             "seizoen": "zomer"
+            "image": "assets/aardbijen.jpg"
         }
     ]
 }
