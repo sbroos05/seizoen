@@ -1,0 +1,24 @@
+{
+    "seizoensproducten": [
+        {
+            "id": 1,
+            "name": "Appel",
+            "seizoen": "herfst"
+        },
+        {
+            "id": 2,
+            "name": "Pastinaak",
+            "seizoen": "winter"
+        },
+        {
+            "id": 3,
+            "name": "Wortel",
+            "seizoen": "lente"
+        },
+        {
+            "id": 4,
+            "name": "Aardbei",
+            "seizoen": "zomer"
+        }
+    ]
+}
